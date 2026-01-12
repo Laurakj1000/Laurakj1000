@@ -7,10 +7,15 @@ I am a **Senior Editor and Quality Reviewer** with over 25 years of experience i
 ---
 
 ## 🚀 My AI Focus
-I am currently bridging the gap between senior editorial standards and AI-first development through the **Micro1 AI-Powered Engineer** curriculum. I specialise in:
+I am currently bridging the gap between senior editorial standards and AI-first development through the **Micro1 AI-Powered Engineer** curriculum. 
+
+## Skills & Certifications
+
+Micro1 Certified: Familiar with AI-assisted editorial tools (Cursor).
+
+I specialise in:
 
 * **Model Alignment:** Providing high-level feedback for LLM training and RLHF.
-* **Vibe Coding:** Using **Cursor** to translate complex human intent into precise technical execution.
 * **Linguistic Precision:** Maintaining native mastery of British English syntax and cultural context.
 
 ## 🛠️ Tech Stack & Tools
