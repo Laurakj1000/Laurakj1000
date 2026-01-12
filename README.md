@@ -1,6 +1,6 @@
 # Hi, I'm Laura K. Jones 👋
 
-### Senior Editor & AI Quality Reviewer | Micro1 Top 1% Vetted
+### Senior Editor & AI Global Quality Reviewer | Micro1 Top 1% Vetted
 
 I am a **Senior Editor and Quality Reviewer** with over 25 years of experience in high-standard journalism, including tenures at **The Times** and **The Telegraph**. I leverage a "zero-error" mindset to ensure that AI-generated content meets the highest benchmarks for accuracy and human nuance.
 
