@@ -21,5 +21,7 @@ Editorial: Google Workspace, Microsoft 365, GitHub.
 ## 📮 Get in Touch
 * **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/laura-k-jones-6b01a611/)
 * **Micro1 Community:** Find me in the #general channel! Laurakj1000
+* **CV:** https://github.com/Laurakj1000/Laurakj1000/blob/main/LKJ%20CV%202026.pdf
+
 
 *"Precision in language leads to precision in logic."*
