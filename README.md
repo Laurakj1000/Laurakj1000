@@ -1,29 +1,22 @@
-# Hi, I'm Laura K. Jones 👋
+Hi, I'm Laura K. Jones 👋
 
-### Senior Editor & AI Global Quality Reviewer | Micro1 Top 1% Vetted
+Senior Editor & AI Content Auditor | Linguistic Specialist
+I am a Senior Editor and Quality Reviewer with over 25 years of experience in high-standard journalism, including tenures at The Times, The Guardian, and The Sunday Telegraph. I apply a veteran's editorial eye to ensure AI-generated content is accurate, logical, and culturally resonant.
 
-I am a **Senior Editor and Quality Reviewer** with over 25 years of experience in high-standard journalism, including tenures at **The Times** and **The Telegraph**. I leverage a "zero-error" mindset to ensure that AI-generated content meets the highest benchmarks for accuracy and human nuance.
+🚀 Current AI Work
+I am currently working with Merit1 and Micro1 to bridge the gap between senior broadsheet standards and AI development. My focus is on dismantling the "uncanny valley" by ensuring LLMs maintain a sophisticated, human-centric voice.
 
----
+Skills & Certifications
+Editorial Auditing: High-level feedback for LLM training and RLHF via Merit1 and Micro1.
 
-## 🚀 My AI Focus
-I am currently bridging the gap between senior editorial standards and AI-first development through the **Micro1 AI-Powered Engineer** curriculum. 
+Linguistic Precision: Native mastery of British English syntax, satire, and cultural nuance.
 
-## Skills & Certifications
+Fact-Checking: Decades of experience in high-pressure truth-verification for the UK national press.
 
-Micro1 Certified: Familiar with AI-assisted editorial tools (Cursor).
+🛠️ Tech Stack & Tools
+AI Workflow: Cursor IDE, Micro1 Dashboard, Slack.
 
-I specialise in:
-
-* **Model Alignment:** Providing high-level feedback for LLM training and RLHF.
-* **Linguistic Precision:** Maintaining native mastery of British English syntax and cultural context.
-
-## 🛠️ Tech Stack & Tools
-* **AI-First Workflow:** Cursor IDE, Micro1 Dashboard.
-* **Collaboration:** Slack.
-* **Quality Assurance:** Fact-checking, logical auditing, and linguistic refinement.
-
----
+Editorial: Google Workspace, Microsoft 365, GitHub.
 
 ## 📮 Get in Touch
 * **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/laura-k-jones-6b01a611/)
