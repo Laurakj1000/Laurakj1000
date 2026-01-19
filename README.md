@@ -4,7 +4,7 @@ Senior Editor & AI Content Auditor | Linguistic Specialist
 I am a Senior Editor and Quality Reviewer with over 25 years of experience in high-standard journalism, including tenures at The Times, The Guardian, and The Sunday Telegraph. I apply a veteran's editorial eye to ensure AI-generated content is accurate, logical, and culturally resonant.
 
 🚀 Current AI Work
-I am currently working with Merit1 and Micro1 to bridge the gap between senior broadsheet standards and AI development. My focus is on dismantling the "uncanny valley" by ensuring LLMs maintain a sophisticated, human-centric voice.
+I am currently working with Merit1 and Micro1 to bridge the gap between senior broadsheet standards and AI development. My focus is on dismantling the "uncanny valley" by ensuring LLMs maintain a sophisticated, human-centric voice. I just signed as a Linguistic AI Training Expert for Micro1
 
 Skills & Certifications
 Editorial Auditing: High-level feedback for LLM training and RLHF via Merit1 and Micro1.
