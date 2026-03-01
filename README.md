@@ -8,6 +8,8 @@ I am a Senior Editor and Quality Reviewer with over two decades of experience in
 
 I am currently working with Mercor and Micro1 to bridge the gap between broadsheet standards and AI development. My focus is on dismantling the "uncanny valley" by ensuring LLMs maintain a sophisticated, human-centric voice.
 
+Promoted to Post-Completion Reviewer within four weeks.
+
 Expert Auditor: Ranked in the top performance tier (Perfect Quality) for high-precision AI training projects.
 
 Specialisms: Advanced diarisation, logical consistency, and the elimination of model hallucinations.
