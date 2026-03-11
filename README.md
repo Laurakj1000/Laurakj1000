@@ -6,7 +6,7 @@ I am a Senior Editor and Quality Reviewer with over two decades of experience in
 
 🚀 Current AI Focus
 
-I am currently working with Mercor and Micro1 to bridge the gap between broadsheet standards and AI development. My focus is on dismantling the "uncanny valley" by ensuring LLMs maintain a sophisticated, human-centric voice.
+I am currently working with Micro1 to bridge the gap between broadsheet standards and AI development. My focus is on dismantling the "uncanny valley" by ensuring LLMs maintain a sophisticated, human-centric voice.
 
 Promoted to Post-Completion Reviewer within four weeks.
 
@@ -16,6 +16,10 @@ Specialisms: Advanced diarisation, logical consistency, and the elimination of m
 
 Safety & Ethics: Applying journalistic rigour to ensure LLM outputs are accurate, unbiased, and safe.
 
+Specialist in technical data auditing and robotics VLA datasets.
+Focus: Granular action-state verification and autonomous logic.
+ 
+
 🛠️ Skills & Tools
 
 Editorial Auditing: High-level feedback for LLM training and RLHF (Reinforcement Learning from Human Feedback).
@@ -23,6 +27,8 @@ Editorial Auditing: High-level feedback for LLM training and RLHF (Reinforcement
 Linguistic Precision: Native mastery of British English syntax, satire, and cultural nuance.
 
 Fact-Checking: Decades of experience in high-pressure truth-verification for the UK national press.
+
+Authentic, precise, and distinctly non-corporate.
 
 Stack: GitHub, Cursor IDE, Micro1 Dashboard, Slack, Google Workspace.
 
